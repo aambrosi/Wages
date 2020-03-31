@@ -13,4 +13,5 @@ The aim of this data analysis report is to study statistically relevant patterns
  - A whether above-average looking women earn more than average looking women;
  - B whether the effect of physical appearance on the wage is the same for women and men;
  - C whether the education exerts the same effect on the wage of both black and white workers.
+ 
 Then other interesting relations will be investigated, such as those arising from the extension of the city, the type of work and the membership in a union.
